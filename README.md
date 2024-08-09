@@ -1,3 +1,1 @@
-Hi, this is my code repository, Included I have much of my coursework over the course of my university career as well as some projects done in my own time, including both the source code and the assosiated reports. 
-
-There is a collection of programming languages inbcluding Python, C, MATLAB and R.
+Herein is my code and report that was my submission to the ECM2423 40% module assesment in which I needed to solve a binary classification problem in machine learning using the tensor flow library. I achieved a mark of 91 out of 100. 
