@@ -1,3 +1,1 @@
-Hi, this is my code repository, Included I have much of my coursework over the course of my university career as well as some projects done in my own time, including both the source code and the assosiated reports. 
-
-There is a collection of programming languages inbcluding Python, C, MATLAB and R.
+Here is my report written as part of the PHY2047 module on climate change, the brief was to write a max 3000 word report that focused around any area of science. I was drawn to this area owing to my interests in large simulations and getting accurate predictions of future warming. I scored a mark of 88/100 and it comprised 60% of the module.
